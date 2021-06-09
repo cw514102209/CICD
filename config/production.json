@@ -1,0 +1,9 @@
+{
+  "Customer": {
+    "dbConfig": {
+      "http": "http",
+      "host": "10.9.25.120",
+      "port": 30888
+    }
+  }
+}
